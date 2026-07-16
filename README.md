@@ -5,9 +5,7 @@ analysis, including derivation and validation of a population-based vascular/
 arterial input function (AIF) for rat brain at 9.4T.
 
 Used in the paper:
-**"Quantitative Pharmacokinetic Analysis by DCE-MRI in Preclinical Models:
-Implementation of the Tofts Model and Derivation of a Population Vascular
-Input Function for Rat Brain at 9.4T"**
+**"Derivation of a Population-Based Vascular Input Function for the Rat Brain in DCE-MRI"**
 
 ## Requirements
 - Python 3.x
